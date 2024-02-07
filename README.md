@@ -1,6 +1,6 @@
 # Object-Detection-YOLOv8
 
-![Object Detection](1_mS6wtt8UWXl0TErmWy-cIg.jpg)
+![Object Detection](ipc-thi-giac-may-tinh.jpg)
 
 ## Overview
 
