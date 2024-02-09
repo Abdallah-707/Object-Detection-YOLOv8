@@ -11,29 +11,29 @@ Below are the main projects and chapters covered in this repository.
 ## Projects:
 
 ### Project 1: Car Counter
-- Description: This project focuses on detecting and counting cars in images or video streams.
+- This project focuses on detecting and counting cars in images or video streams.
 - Implementation: Using YOLOv8, the system identifies cars in a given image or video and provides a count of the total number of cars detected.
 
 ### Project 2: People Counter
-- Description: This project involves detecting and counting people in images or video streams.
+- This project involves detecting and counting people in images or video streams.
 - Implementation: YOLOv8 is utilized to identify individuals in images or video footage and provides a count of the total number of people detected.
 
 ### Project 3: PPE Detection
-- Description: This project aims to detect whether individuals are wearing Personal Protective Equipment (PPE) such as helmets, vests, and goggles.
+- This project aims to detect whether individuals are wearing Personal Protective Equipment (PPE) such as helmets, vests, and goggles.
 - Implementation: YOLOv8 is employed to identify PPE items in images or video feeds, ensuring safety compliance.
 
 ### Project 4: Poker Hand Detector
-- Description: This project focuses on identifying and recognizing poker hands in images or video streams.
+- This project focuses on identifying and recognizing poker hands in images or video streams.
 - Implementation: Utilizing YOLOv8, the system identifies and classifies various poker hands present in an image or video.
 
 ## Chapters:
 
 ### Chapter 5: Running YOLO
-- Description: This chapter provides instructions on how to run the YOLOv8 algorithm for object detection tasks.
+- This chapter provides instructions on how to run the YOLOv8 algorithm for object detection tasks.
 - Implementation: Step-by-step guide on installing dependencies, configuring the environment, and executing YOLOv8 for object detection.
 
 ### Chapter 6: YOLO with Webcam
-- Description: This chapter explains how to utilize YOLOv8 with a webcam for real-time object detection.
+- This chapter explains how to utilize YOLOv8 with a webcam for real-time object detection.
 - Implementation: Instructions on setting up the webcam, configuring YOLOv8, and running real-time object detection on live video feeds.
 
 
