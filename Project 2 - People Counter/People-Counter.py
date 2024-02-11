@@ -58,8 +58,7 @@ while True:
             currentClass = classNames[cls]
 
             if currentClass == "person" and conf > 0.3:
-                # cvzone.putTextRect(img, f'{currentClass} {conf}', (max(0, x1), max(35, y1)),
-                #                    scale=0.6, thickness=1, offset=3)
+                # cvzone.putTextRect(img, f'{currentClass} {conf}', (max(0, x1), max(35, y1)),scale=0.6, thickness=1, offset=3)
                 # cvzone.cornerRect(img, (x1, y1, w, h), l=9, rt=5)
                 currentArray = np.array([x1, y1, x2, y2, conf])
                 detections = np.vstack((detections, currentArray))
