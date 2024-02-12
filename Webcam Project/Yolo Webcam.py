@@ -4,7 +4,7 @@ import cvzone
 import math
 import time
 
-#cap = cv2.VideoCapture(1)  # For Webcam
+#cap = cv2.VideoCapture(1)  --> For Webcam
 #cap.set(3, 1280)
 #cap.set(4, 720)
 cap = cv2.VideoCapture("../Videos/CpcSofra.mp4")  # For Video
