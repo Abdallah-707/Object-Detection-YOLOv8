@@ -8,6 +8,7 @@ This repository contains the code for an Object Detection project. Object detect
 
 Below are the main projects and chapters covered in this repository.
 
+
 ## Projects:
 
 ### Project 1: Car Counter
