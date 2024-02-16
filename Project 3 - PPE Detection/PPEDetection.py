@@ -41,7 +41,7 @@ while True:
                     myColor = (255, 0, 0)
 
                 cvzone.putTextRect(img, f'{classNames[cls]} {conf}',
-                                   (max(0, x1), max(35, y1)), scale=1, thickness=1,colorB=myColor,
+                                   (max(0, x1), max(35, y1)), scale=1, thickness=1,colorB=myColor, # Custmuize Box Prop.
                                    colorT=(255,255,255),colorR=myColor, offset=5)
                 cv2.rectangle(img, (x1, y1), (x2, y2), myColor, 3)
 
